@@ -1,3 +1,4 @@
+[![CI](https://github.com/Kinan-Hasan/docuchat-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Kinan-Hasan/docuchat-ai/actions/workflows/ci.yml)
 # DocuChat AI
 
 A production-style Retrieval-Augmented Generation (RAG) assistant for internal
