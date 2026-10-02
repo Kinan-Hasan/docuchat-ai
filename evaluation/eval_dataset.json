@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How many days per week can I work remotely?",
+    "expected_keywords": ["three", "days", "remote"]
+  },
+  {
+    "question": "What is the home office equipment stipend amount?",
+    "expected_keywords": ["500", "stipend"]
+  },
+  {
+    "question": "What are the core hours I need to be available during if I work remotely?",
+    "expected_keywords": ["10:00", "3:00", "core hours"]
+  },
+  {
+    "question": "How many days do I have to submit an expense after I incur it?",
+    "expected_keywords": ["30", "days"]
+  },
+  {
+    "question": "What is the maximum I can spend per night on a hotel in a major city?",
+    "expected_keywords": ["250"]
+  },
+  {
+    "question": "How much can I expense per day for meals while traveling?",
+    "expected_keywords": ["75"]
+  },
+  {
+    "question": "How long is the probationary period for new employees?",
+    "expected_keywords": ["90", "days", "probationary"]
+  },
+  {
+    "question": "What percentage does the company match for 401k contributions?",
+    "expected_keywords": ["50%", "401"]
+  },
+  {
+    "question": "How far in advance do I need approval to work remotely from another country?",
+    "expected_keywords": ["30", "days", "approval"]
+  },
+  {
+    "question": "When must I complete compliance training as a new employee?",
+    "expected_keywords": ["five", "business days"]
+  }
+]

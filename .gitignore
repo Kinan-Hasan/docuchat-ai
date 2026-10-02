@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+chroma_data/
+evaluation/eval_results.json
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
